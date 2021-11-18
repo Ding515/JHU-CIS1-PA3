@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 17 12:10:18 2021
 
-@author: Ding
+@author: Ding,Li
 """
 '''
 This is DEMO file of our Programming Asignment 3 in CIS course, Fall 2021.
